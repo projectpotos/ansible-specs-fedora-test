@@ -1,6 +1,6 @@
 ---
 runtypes:
   hourly:
-    - potos.base.base
+    - ansible-role-motd
   daily:
-    - potos.base.base
+    - ansible-role-motd
