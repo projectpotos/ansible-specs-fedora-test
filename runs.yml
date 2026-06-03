@@ -1,0 +1,6 @@
+---
+runtypes:
+  hourly:
+    - potos.base.base
+  daily:
+    - potos.base.base
